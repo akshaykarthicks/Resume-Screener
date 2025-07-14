@@ -74,11 +74,6 @@ This project automates the process of **analyzing candidate resumes** against jo
 
 ---
 
-## 📊 Demo 
-![ScreenRecording2025-07-14124821-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e5821873-c0e2-45bb-9595-82bb41585a28)
-
-
----
 
 
 ## 🛠 Setup Guide
