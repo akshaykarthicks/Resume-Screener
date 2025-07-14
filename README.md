@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screening Workflow (n8n + GPT-4 + Google Drive)
+![ScreenRecording2025-07-14124821-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c8473e0a-8cc0-4811-838d-fbdc013de19b)# 🤖 AI Resume Screening Workflow (n8n + GPT-4 + Google Drive)
 
 This project automates the process of **analyzing candidate resumes** against job descriptions using AI and stores the evaluation in a **Google Sheet**.
 <img width="1377" height="550" alt="image" src="https://github.com/user-attachments/assets/0b3f9359-6653-4a95-bb47-e2176c993869" />
@@ -75,8 +75,9 @@ This project automates the process of **analyzing candidate resumes** against jo
 ---
 
 ## 📊 Demo 
+![ScreenRecording2025-07-14124821-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e5821873-c0e2-45bb-9595-82bb41585a28)
 
-![ScreenRecording2025-07-14124821-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e09b4f84-3f4d-4a0d-bf6c-fb061e51503e)
+
 ---
 
 
