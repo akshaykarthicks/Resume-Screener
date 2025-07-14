@@ -74,11 +74,11 @@ This project automates the process of **analyzing candidate resumes** against jo
 
 ---
 
-## 📊 Demo Sheet
+## 📊 Demo 
 
-👉 [Google Sheet Output (View Only)](https://docs.google.com/spreadsheets/d/1THH3mhmVXhig9iTlMzTPKC_l2qYEykah7w5IhIoEiWg/edit?usp=drivesdk)
-
+![ScreenRecording2025-07-14124821-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e09b4f84-3f4d-4a0d-bf6c-fb061e51503e)
 ---
+
 
 ## 🛠 Setup Guide
 
